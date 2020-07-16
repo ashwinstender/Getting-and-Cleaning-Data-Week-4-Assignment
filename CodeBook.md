@@ -7,6 +7,7 @@ The reader is refered to the "README.me" document in this repository, for backgr
 
 **Data source**
 
+
 The data used for this assigment can be downloaded through the following sources:
 
 -UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -17,6 +18,7 @@ The data used for this assigment can be downloaded through the following sources
 
 **Identifiers**
 
+
 The base (merged) data is grouped by using the following variables to obtain a mean value and the standard deviation std():
 
 •subject - The ID of the test subject
@@ -26,9 +28,10 @@ The base (merged) data is grouped by using the following variables to obtain a m
 
 
 **Activity**
-/
+
+
 Subjects (n = 30) are numberede from 1 to 30. The corresponding activites are:
-/
+
 
 1.WALKING
 
