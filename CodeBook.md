@@ -21,7 +21,9 @@ The base data is grouped by the following values to build mean value and the sta
 
 •activity - The type of activity performed when the corresponding measurements were taken
 
+
 **Activity**
+
 The 30 subject are numbered sequentially from 1 to 30. Activity column has 6 types as listed below.
 
 1.WALKING
@@ -35,6 +37,7 @@ The 30 subject are numbered sequentially from 1 to 30. Activity column has 6 typ
 5.STANDING
 
 6.LAYING
+
 
 **tidy dataset measurements**
 
