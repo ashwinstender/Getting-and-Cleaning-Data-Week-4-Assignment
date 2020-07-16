@@ -186,3 +186,9 @@ The final "tidy_data.txt" file contains the following columns/variables:
 67."fBodyBodyGyroJerkMag-mean()"
 
 68."fBodyBodyGyroJerkMag-std()"
+
+**R packages used in analysis
+
+In the analysis, see for a full R script "run_analysis.R" file, the following R package was used:
+
+-Dplyr
