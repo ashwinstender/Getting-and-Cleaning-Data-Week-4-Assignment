@@ -46,8 +46,13 @@ Within the "UCI HAR Dataset" folder, the following .txt data files are used in t
 # Contents repository
 Besides this README.me document, this repository contains the following files:
 
--CodeBook.md    : The Code Book provides a full description of the relevant variables as listed in the "run_analysis.R" document
--tidy_data.txt  : A full R script that 
+-CodeBook.md    : The Code Book provides a full description of the relevant variables as listed in the "run_analysis.R" document.
+
+-run_analysis.R : A full R script that walks through the execution of all 5 steps as stated in the assignment decription.
+
+-tidy_data.txt  : The final product of this assignment. A tidy data set with the average of each variable for each activity and each subject.
+
+
 
 
 
