@@ -26,8 +26,9 @@ The base (merged) data is grouped by using the following variables to obtain a m
 
 
 **Activity**
-
+/
 Subjects (n = 30) are numberede from 1 to 30. The corresponding activites are:
+/
 
 1.WALKING
 
