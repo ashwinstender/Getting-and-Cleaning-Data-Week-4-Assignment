@@ -192,4 +192,6 @@ The final "tidy_data.txt" file contains the following columns/variables:
 
 In the analysis, see for a full R script "run_analysis.R" file, the following R package was used:
 
+-Data.table
+
 -Dplyr
