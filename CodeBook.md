@@ -3,7 +3,8 @@
 This code book provides a list of all variables relevant to the "run_analyis.R" file, and the "tidy_dat.txt" file.
 The reader is refered to the "README.me" document in this repository, for background info on these files.
 
-*Source data*
+**Data source**
+
 The data used for this assigment can be downloaded through the following sources:
 
 -UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
