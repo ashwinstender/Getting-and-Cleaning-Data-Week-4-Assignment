@@ -4,6 +4,7 @@ This code book provides a list of all variables relevant to the "run_analyis.R" 
 The reader is refered to the "README.me" document in this repository, for background info on these files.
 
 
+
 **Data source**
 
 The data used for this assigment can be downloaded through the following sources:
@@ -13,6 +14,7 @@ The data used for this assigment can be downloaded through the following sources
 -Direct link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
+
 **Identifiers**
 
 The base data is grouped by the following values to build mean value and the standard deviation std()
@@ -20,6 +22,7 @@ The base data is grouped by the following values to build mean value and the sta
 •subject - The ID of the test subject
 
 •activity - The type of activity performed when the corresponding measurements were taken
+
 
 
 **Activity**
@@ -37,6 +40,7 @@ The 30 subject are numbered sequentially from 1 to 30. Activity column has 6 typ
 5.STANDING
 
 6.LAYING
+
 
 
 **Tidy dataset measurements**
