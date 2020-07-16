@@ -17,7 +17,7 @@ The data used for this assigment can be downloaded through the following sources
 
 **Identifiers**
 
-The base data is grouped by the following values to build mean value and the standard deviation std()
+The base (merged) data is grouped by using the following variables to obtain a mean value and the standard deviation std():
 
 •subject - The ID of the test subject
 
@@ -27,7 +27,7 @@ The base data is grouped by the following values to build mean value and the sta
 
 **Activity**
 
-The 30 subject are numbered sequentially from 1 to 30. Activity column has 6 types as listed below.
+Subjects (n = 30) are numberede from 1 to 30. The corresponding activites are:
 
 1.WALKING
 
@@ -44,6 +44,8 @@ The 30 subject are numbered sequentially from 1 to 30. Activity column has 6 typ
 
 
 **Tidy dataset measurements**
+
+The final "tidy_data.txt" file contains the following columns/variables:
 
 1."activitylabel"
 
